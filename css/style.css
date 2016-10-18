@@ -1,8 +1,39 @@
-.box{
-border: 1px solid pink;
+#box{
+border: 1px solid black;
 width: 500px;
+height: 500px;
 padding: 20px;
 text-align: center;
 margin-left: auto;
 margin-right: auto;
 }
+
+#numbers{
+width: 400px;
+height: 50px;
+}
+
+.operators{
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
+
+html{
+	zoom:2;
+}
+
+button{
+height: 40px;
+width: 40px;
+
+
+}
+
+#calculate{
+height:40px;
+width: 80px;
+
+}
+
